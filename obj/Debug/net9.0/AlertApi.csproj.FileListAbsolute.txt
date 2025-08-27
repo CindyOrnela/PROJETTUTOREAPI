@@ -1,0 +1,137 @@
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\obj\Debug\net9.0\AlertApi.csproj.AssemblyReference.cache
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\obj\Debug\net9.0\AlertApi.GeneratedMSBuildEditorConfig.editorconfig
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\obj\Debug\net9.0\AlertApi.AssemblyInfoInputs.cache
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\obj\Debug\net9.0\AlertApi.AssemblyInfo.cs
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\obj\Debug\net9.0\AlertApi.csproj.CoreCompileInputs.cache
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\obj\Debug\net9.0\AlertApi.MvcApplicationPartsAssemblyInfo.cs
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\obj\Debug\net9.0\AlertApi.MvcApplicationPartsAssemblyInfo.cache
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\obj\Debug\net9.0\AlertApi.sourcelink.json
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\FirebaseAdmin.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Google.Api.Gax.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Google.Api.Gax.Rest.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Google.Apis.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Google.Apis.Auth.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Google.Apis.Core.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Newtonsoft.Json.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\System.CodeDom.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\System.Management.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\runtimes\win\lib\net7.0\System.Management.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\obj\Debug\net9.0\scopedcss\bundle\AlertApi.styles.css
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\obj\Debug\net9.0\staticwebassets.build.json
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\obj\Debug\net9.0\staticwebassets.development.json
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\obj\Debug\net9.0\AlertApi.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\obj\Debug\net9.0\refint\AlertApi.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\obj\Debug\net9.0\AlertApi.pdb
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\appsettings.Development.json
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\appsettings.json
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Config\firebase-key.json
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\AlertApi.staticwebassets.endpoints.json
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\AlertApi.exe
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\AlertApi.deps.json
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\AlertApi.runtimeconfig.json
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\AlertApi.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\AlertApi.pdb
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\obj\Debug\net9.0\AlertApi.csproj.Up2Date
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\obj\Debug\net9.0\AlertApi.genruntimeconfig.cache
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\obj\Debug\net9.0\ref\AlertApi.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Enums.NET.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\ColorTranslations.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\jose-jwt.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\StandardSocketsHttpHandler.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\TestableIO.System.IO.Abstractions.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\TestableIO.System.IO.Abstractions.Wrappers.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Testably.Abstractions.FileSystem.Interface.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\Vonage.dll
+S:\FORMATION\ECOLE\Azimut\INSA_Projet-tutor-_GL_Grpe1\AlertApi\bin\Debug\net9.0\firebase-adminsdk.json
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\AlertApi.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\refint\AlertApi.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\AlertApi.pdb
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\appsettings.json
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Config\firebase-key.json
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\firebase-adminsdk.json
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\AlertApi.staticwebassets.endpoints.json
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\AlertApi.exe
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\AlertApi.deps.json
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\AlertApi.runtimeconfig.json
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\AlertApi.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\AlertApi.pdb
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Enums.NET.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\FirebaseAdmin.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Google.Api.Gax.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Google.Api.Gax.Rest.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Google.Apis.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Google.Apis.Auth.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Google.Apis.Core.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\jose-jwt.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\StandardSocketsHttpHandler.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\System.Management.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\TestableIO.System.IO.Abstractions.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Testably.Abstractions.FileSystem.Interface.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Vonage.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\AlertApi.csproj.AssemblyReference.cache
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\AlertApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\AlertApi.AssemblyInfoInputs.cache
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\AlertApi.AssemblyInfo.cs
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\AlertApi.csproj.CoreCompileInputs.cache
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\AlertApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\AlertApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\scopedcss\bundle\AlertApi.styles.css
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\staticwebassets\msbuild.AlertApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\staticwebassets\msbuild.AlertApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\staticwebassets\msbuild.build.AlertApi.props
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AlertApi.props
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AlertApi.props
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\AlertApi.csproj.Up2Date
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\AlertApi.genruntimeconfig.cache
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\ref\AlertApi.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\MQTTnet.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\DotNetEnv.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\Sprache.dll
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\obj\Debug\net9.0\AlertApi.sourcelink.json
+C:\Users\KAMENI\Desktop\projet tutoré\AlertApi\bin\Debug\net9.0\.env

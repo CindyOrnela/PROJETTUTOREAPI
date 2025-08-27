@@ -1,0 +1,144 @@
+[
+  {
+    "ContainingType": "KwattAlertAPI.Controllers.AlertController",
+    "Method": "SendAlert",
+    "RelativePath": "api/alert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KwattAlertAPI.Controllers.AlertController",
+    "Method": "Ping",
+    "RelativePath": "api/alert/ping",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KwattAlertAPI.Controllers.AlertController",
+    "Method": "RegisterAlert",
+    "RelativePath": "api/alert/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Alert",
+        "Type": "AlertApi.Models.alert",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KwattAlertAPI.Controllers.AlertController",
+    "Method": "TestOne",
+    "RelativePath": "api/alert/test-one",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KwattAlertAPI.Controllers.AlertController",
+    "Method": "SendPersonalAlert",
+    "RelativePath": "api/alert/test-one-personal",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KwattAlertAPI.Controllers.AlertController",
+    "Method": "TestGetUsers",
+    "RelativePath": "api/alert/test-users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlertApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "AlertApi.Models.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlertApi.Controllers.MqttController",
+    "Method": "SendMessage",
+    "RelativePath": "api/mqtt/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AlertApi.Models.MqttRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlertApi.Controllers.MqttController",
+    "Method": "SubscribeToTopic",
+    "RelativePath": "api/mqtt/subscribe",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AlertApi.Models.MqttSubscribeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlertApi.Controllers.SmsController",
+    "Method": "SendSmsToAllFromFirebase",
+    "RelativePath": "api/sms/send-all-firebase",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Program\u002B\u003C\u003Ec",
+    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_2",
+    "RelativePath": "test",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
